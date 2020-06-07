@@ -13,7 +13,7 @@
 * Connecting REST API to JPA/Hibernate with Spring Boot
 * Spring security to configure Basic Authentication and JWT
 
-## Snipets
+## Snippets
 1. Login Page
 ![Login Page](https://github.com/vyom-shah/Angular-Sprint-boot-TODO-Application/blob/master/1_todo_angular_login.png)
 

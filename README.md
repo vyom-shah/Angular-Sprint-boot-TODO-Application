@@ -20,12 +20,12 @@
 2. Todos Page
 ![Todos Page](https://github.com/vyom-shah/Angular-Sprint-boot-TODO-Application/blob/master/2_todo_angular_todos.png)
 
-2. Add Todo
+3. Add Todo
 ![Add Todo](https://github.com/vyom-shah/Angular-Sprint-boot-TODO-Application/blob/master/3_todo_angular_add.png)
 
-3. Validation
+4. Validation
 ![Validation](https://github.com/vyom-shah/Angular-Sprint-boot-TODO-Application/blob/master/todo_angular.png)
 
-4. Added Todo
+5. Added Todo
 ![Added Todo](https://github.com/vyom-shah/Angular-Sprint-boot-TODO-Application/blob/master/4_todo_angular_added.png)
 
